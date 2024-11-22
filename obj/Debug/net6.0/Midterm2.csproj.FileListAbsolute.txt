@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\bin\Debug\net6.0\Midterm2.exe
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\bin\Debug\net6.0\Midterm2.deps.json
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\bin\Debug\net6.0\Midterm2.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\bin\Debug\net6.0\Midterm2.dll
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\bin\Debug\net6.0\ref\Midterm2.dll
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\bin\Debug\net6.0\Midterm2.pdb
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\obj\Debug\net6.0\Midterm2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\obj\Debug\net6.0\Midterm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\obj\Debug\net6.0\Midterm2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\obj\Debug\net6.0\Midterm2.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\obj\Debug\net6.0\Midterm2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\obj\Debug\net6.0\Midterm2.dll
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\obj\Debug\net6.0\ref\Midterm2.dll
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\obj\Debug\net6.0\Midterm2.pdb
+C:\Users\Lenovo\Desktop\C#\Midterm2\Midterm2\obj\Debug\net6.0\Midterm2.genruntimeconfig.cache
